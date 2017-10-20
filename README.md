@@ -1,2 +1,1 @@
-Something is happening here
-Line 2
+Something is happening here.
